@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Code-Less-Belgium
 - 👀 I’m interested in Low and No Code tech!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me info@code-less.be
 
 <!---
